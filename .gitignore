@@ -1,3 +1,7 @@
+# Slack Status Updater
+
+config.toml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

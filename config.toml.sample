@@ -1,0 +1,21 @@
+[general]
+interval = 60
+
+[slack]
+client_id = "25080125346.602524188564"
+client_secret = "77b456b80e901fad14f2fd30e6fe52b7"
+token = ""
+
+[trigger.googlecalendar]
+username = ""
+password = ""
+status_text = ""
+status_emoji = ""
+
+[trigger.googlecalendar.status_emoji_patterns]
+lunch = ":ramen:"
+
+[trigger.process]
+process_name = "zoom.us"
+status_emoji = ":zoom:"
+status_text = "in a meeting!"
